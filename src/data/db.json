@@ -5,31 +5,36 @@
             "id": 1,
             "description": "Colegiatura",
             "precio": 600000,
-            "type": "Gasto"
+            "type": "Gasto",
+            "action": null
         },
         {
             "id": 2,
             "description": "Juguetes",
             "precio": 200000,
-            "type": "Gasto"
+            "type": "Gasto",
+            "action": null
         },
         {
             "id": 3,
             "description": "Pago de Quincena",
             "precio": 2600000,
-            "type": "Ingreso"
+            "type": "Ingreso",
+            "action": null
         },
         {
             "id": 4,
             "description": "Alquiler",
             "precio": 1000000,
-            "type": "Gasto"
+            "type": "Gasto",
+            "action": null
         },
         {
             "id": 5,
             "description": "Servicio de energía eléctrica",
             "precio": 300000,
-            "type": "Gasto"
+            "type": "Gasto",
+            "action": null
         }
     ]
 
